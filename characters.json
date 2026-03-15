@@ -268,7 +268,7 @@
         },
         {
             "name": "jotaro",
-            "displayName": "jojo",
+            "displayName": "Kujo Jotaro",
             "rank": "S",
             "libram": "INFINITE",
             "tendency": "Fury",
@@ -277,14 +277,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "jojo",
-                    "displayName": "jojo"
-                },
-                {
-                    "name": "jojo",
-                    "displayName": "jojo"
                 }
             ]
         },
@@ -466,7 +458,7 @@
         },
         {
             "name": "jolyne",
-            "displayName": "jojo",
+            "displayName": "Jolyne Cujoh",
             "rank": "S",
             "libram": "INFINITE",
             "tendency": "Umbra",
@@ -475,14 +467,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "jojo3020",
-                    "displayName": "jojo3020"
-                },
-                {
-                    "name": "jojo3021",
-                    "displayName": "jojo3021"
                 }
             ]
         },
@@ -519,10 +503,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "graves_-_rank_up",
-                    "displayName": "Graves - Rank Up"
                 },
                 {
                     "name": "reverie_belle",
@@ -569,10 +549,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "kisugi_hitomi_-_rank_up",
-                    "displayName": "Kisugi Hitomi - Rank up"
                 },
                 {
                     "name": "neon_raindrops",
@@ -763,10 +739,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "hypatia_-_rank_up",
-                    "displayName": "Hypatia - Rank Up"
                 },
                 {
                     "name": "crepuscular_bloom",
@@ -1009,10 +981,6 @@
                     "displayName": "Default"
                 },
                 {
-                    "name": "kisugi_rui_-_rank_up",
-                    "displayName": "Kisugi Rui - Rank up"
-                },
-                {
                     "name": "tipsy_nocturne",
                     "displayName": "Tipsy Nocturne"
                 }
@@ -1245,10 +1213,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "irrheia_-_rank_up",
-                    "displayName": "Irrheia - Rank Up"
                 }
             ]
         },
@@ -1416,7 +1380,7 @@
         },
         {
             "name": "anasui",
-            "displayName": "jojo",
+            "displayName": "Narciso Anastasia",
             "rank": "A",
             "libram": "INFINITE",
             "tendency": "Endura",
@@ -1425,14 +1389,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "jojo",
-                    "displayName": "jojo"
-                },
-                {
-                    "name": "jojo",
-                    "displayName": "jojo"
                 }
             ]
         },
@@ -1447,10 +1403,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "luminita_-_rank_up",
-                    "displayName": "Luminita - Rank Up"
                 }
             ]
         },
@@ -1479,10 +1431,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "rumina_-_rank_up",
-                    "displayName": "Rumina - Rank Up"
                 }
             ]
         },
@@ -1680,8 +1628,8 @@
         },
         {
             "name": "ermes",
-            "displayName": "jojo",
-            "rank": "A",
+            "displayName": "Ermes Costello",
+            "rank": "S",
             "libram": "INFINITE",
             "tendency": "Fury",
             "category": "Sinners",
@@ -1689,14 +1637,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "jojo",
-                    "displayName": "jojo"
-                },
-                {
-                    "name": "jojo",
-                    "displayName": "jojo"
                 }
             ]
         },
@@ -1711,10 +1651,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "lysandra_-_rank_up",
-                    "displayName": "Lysandra - Rank Up"
                 }
             ]
         },
@@ -2024,7 +1960,7 @@
         },
         {
             "name": "ff",
-            "displayName": "jojo",
+            "displayName": "F.F.",
             "rank": "A",
             "libram": "INFINITE",
             "tendency": "Reticle",
@@ -2033,14 +1969,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "jojo3016",
-                    "displayName": "jojo3016"
-                },
-                {
-                    "name": "jojo3017",
-                    "displayName": "jojo3017"
                 }
             ]
         },
@@ -2256,7 +2184,7 @@
         },
         {
             "name": "weather",
-            "displayName": "jojo",
+            "displayName": "Weather Forecast",
             "rank": "A",
             "libram": "INFINITE",
             "tendency": "Arcane",
@@ -2265,14 +2193,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "jojo3018",
-                    "displayName": "jojo3018"
-                },
-                {
-                    "name": "jojo3019",
-                    "displayName": "jojo3019"
                 }
             ]
         },
@@ -2507,10 +2427,6 @@
                 {
                     "name": "default",
                     "displayName": "Default"
-                },
-                {
-                    "name": "kisugi_ai_-_rank_up",
-                    "displayName": "Kisugi Ai - Rank up"
                 },
                 {
                     "name": "tender_signal",
